@@ -1,0 +1,1 @@
+A high-performance Student Notes Management System built with Spring Boot 4.x and Java 17. Features a robust RESTful API architecture, JWT-secured authentication, and a modular design ready for integration with an AI-powered PDF-to-Handwritten transformation pipeline.
